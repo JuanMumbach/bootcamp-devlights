@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootcamp-devlights-dotnet", "bootcamp-devlights-dotnet.csproj", "{3AEFDDB4-1785-43CB-9F1C-EB64D662A5FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "actividad1", "actividad1.csproj", "{3AEFDDB4-1785-43CB-9F1C-EB64D662A5FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

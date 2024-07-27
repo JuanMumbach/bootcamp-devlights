@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\bootcamp-devlights-dotnet.csproj": {}
+    "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\bootcamp-devlights-dotnet.csproj": {
+    "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\bootcamp-devlights-dotnet.csproj",
-        "projectName": "bootcamp-devlights-dotnet",
-        "projectPath": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\bootcamp-devlights-dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.csproj",
+        "projectName": "actividad1",
+        "projectPath": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\obj\\",
         "projectStyle": "PackageReference",

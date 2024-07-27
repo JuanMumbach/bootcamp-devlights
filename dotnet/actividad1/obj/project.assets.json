@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\workd\\.nuget\\packages\\": {}
+    "C:\\Users\\juan_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\workd\\OneDrive\\Escritorio\\JUANI\\Github Juan\\bootcamp-devlights-dotnet\\bootcamp-devlights-dotnet.csproj",
-      "projectName": "bootcamp-devlights-dotnet",
-      "projectPath": "C:\\Users\\workd\\OneDrive\\Escritorio\\JUANI\\Github Juan\\bootcamp-devlights-dotnet\\bootcamp-devlights-dotnet.csproj",
-      "packagesPath": "C:\\Users\\workd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\workd\\OneDrive\\Escritorio\\JUANI\\Github Juan\\bootcamp-devlights-dotnet\\obj\\",
+      "projectUniqueName": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.csproj",
+      "projectName": "actividad1",
+      "projectPath": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.csproj",
+      "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\workd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

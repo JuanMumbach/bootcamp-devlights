@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AEFDDB4-1785-43CB-9F1C-EB64D662A5FF}|bootcamp-devlights-dotnet.csproj|c:\\users\\juan_\\onedrive\\documentos\\github\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEFDDB4-1785-43CB-9F1C-EB64D662A5FF}|bootcamp-devlights-dotnet.csproj|solutionrelative:actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AEFDDB4-1785-43CB-9F1C-EB64D662A5FF}|actividad1.csproj|c:\\users\\juan_\\onedrive\\documentos\\github\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEFDDB4-1785-43CB-9F1C-EB64D662A5FF}|actividad1.csproj|solutionrelative:actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "actividad1.cs",
               "ToolTip": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\actividad1\\actividad1.cs",
               "RelativeToolTip": "actividad1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T22:16:05.984Z",
+              "WhenOpened": "2024-07-27T23:21:50.024Z",
               "EditorCaption": ""
             }
           ]
