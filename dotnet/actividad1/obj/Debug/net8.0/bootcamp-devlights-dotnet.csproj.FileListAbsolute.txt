@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\bin\Debug\net8.0\bootcamp-devlights-dotnet.exe
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\bin\Debug\net8.0\bootcamp-devlights-dotnet.deps.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\bin\Debug\net8.0\bootcamp-devlights-dotnet.runtimeconfig.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\bin\Debug\net8.0\bootcamp-devlights-dotnet.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\bin\Debug\net8.0\bootcamp-devlights-dotnet.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.sourcelink.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\refint\bootcamp-devlights-dotnet.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\bootcamp-devlights-dotnet.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights-dotnet\obj\Debug\net8.0\ref\bootcamp-devlights-dotnet.dll
