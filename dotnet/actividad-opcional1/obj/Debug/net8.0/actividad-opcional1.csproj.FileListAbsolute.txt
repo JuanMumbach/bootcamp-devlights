@@ -1,0 +1,14 @@
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\bin\Debug\net8.0\actividad-opcional1.exe
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\bin\Debug\net8.0\actividad-opcional1.deps.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\bin\Debug\net8.0\actividad-opcional1.runtimeconfig.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\bin\Debug\net8.0\actividad-opcional1.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\bin\Debug\net8.0\actividad-opcional1.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\refint\actividad-opcional1.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\ref\actividad-opcional1.dll
