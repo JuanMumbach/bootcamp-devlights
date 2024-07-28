@@ -12,3 +12,4 @@ C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\
 C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.pdb
 C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.genruntimeconfig.cache
 C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\ref\actividad-opcional1.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional1\obj\Debug\net8.0\actividad-opcional1.sourcelink.json
