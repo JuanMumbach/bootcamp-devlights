@@ -25,9 +25,15 @@ namespace actividad_opcional1
             Ejercicio8();
             Ejercicio9();
             Ejercicio10();
-            */
             Ejercicio11();
             Ejercicio12();
+            Ejercicio13();
+            Ejercicio14();
+            Ejercicio15();
+            Ejercicio16();
+            Ejercicio17();
+            */
+            Ejercicio18();
         }
 
         #region funciones (ejercicios)
@@ -424,6 +430,192 @@ namespace actividad_opcional1
             {
                 Console.WriteLine("Nueva contraseña confirmada.");
             }
+        }
+
+        static void Ejercicio13()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 13\n\n");
+
+            Random random = new Random();
+            int numeroRandom = random.Next(1, 10);
+
+            int intentos = 1;
+            Console.WriteLine("He elegido un numero aleatorio del 1 al 10, trata de adivinarlo:");
+            
+            if (!float.TryParse(Console.ReadLine(), out float numero))
+            {
+                Console.WriteLine("El valor ingresada no es valido.");
+                return;
+            }
+
+            while(numero != numeroRandom)
+            {
+                Console.WriteLine("No, ese no es el numero. Intentalo de nuevo:");
+                if (!float.TryParse(Console.ReadLine(), out numero))
+                {
+                    Console.WriteLine("El valor ingresada no es valido.");
+                    return;
+                }
+                intentos++;
+            }
+
+            Console.WriteLine($"Felicidades! Adivinaste, y tan solo en {intentos} intentos.");
+        }
+
+        static void Ejercicio14()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 14\n\n");
+
+            Random random = new Random();
+            int numeroRandom = random.Next(1, 15);
+
+            int intentos = 1;
+            Console.WriteLine("He elegido un numero aleatorio del 1 al 15, trata de adivinarlo:");
+
+            if (!float.TryParse(Console.ReadLine(), out float numero))
+            {
+                Console.WriteLine("El valor ingresada no es valido.");
+                return;
+            }
+
+            while (numero != numeroRandom)
+            {
+                Console.WriteLine($"No, ese no es el numero.Pista: el numero secreto es {(numero > numeroRandom ? "menor":"mayor")} que {numero}.\n Intentalo de nuevo:");
+                if (!float.TryParse(Console.ReadLine(), out numero))
+                {
+                    Console.WriteLine("El valor ingresada no es valido.");
+                    return;
+                }
+                intentos++;
+            }
+
+            Console.WriteLine($"Felicidades! Adivinaste, y tan solo en {intentos} intentos.");
+        }
+
+        static void Ejercicio15()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 15\n\n");
+
+            Console.WriteLine("Ingrese la cantidad de numeros que desee sumar.\nCuando no quiera sumar mas numeros, escriba 'fin':");
+            
+            float sumatoria = 0;   
+            bool fin = false;
+            while(!fin)
+            {
+                string input = Console.ReadLine();
+
+                if (float.TryParse(input, out float nuevoNumero))
+                {
+                    sumatoria += nuevoNumero;
+                }
+                if (input == "fin") fin = true;
+            }
+
+            Console.WriteLine($"La suma de todos estos numeros es igual a {sumatoria}.");
+        }
+
+        static void Ejercicio16()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 16\n\n");
+
+            Console.WriteLine("Ingrese la palabra o oracion que desee verificar si es una palindromo:");
+            string palabra = Console.ReadLine();
+            if (string.IsNullOrEmpty(palabra))
+            {
+                Console.WriteLine("La palabra ingresada no es valida.");
+                return;
+            }
+
+            bool esPalindromo = true;
+
+            int j = palabra.Length - 1;
+            for (int i = 0; i < palabra.Length; i++)
+            {
+                Console.Write(palabra[j]);
+                if (palabra[i] != palabra[j])
+                {
+                    esPalindromo = false;
+                }
+                j--;
+            }
+
+            if (esPalindromo)
+            {
+                Console.WriteLine("\nEs un palindromo.");
+            }
+            else
+            {
+                Console.WriteLine("\nNo es un palindromo.");
+            }
+
+        }
+
+        static void Ejercicio17()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 17\n\n");
+
+            Console.WriteLine("Ingrese el numero para calcular su factorial:");
+            if (!float.TryParse(Console.ReadLine(), out float numero))
+            {
+                Console.WriteLine("El valor ingresada no es valido.");
+                return;
+            }
+
+            int factorial = 1;
+            for(int i = 1;i <= numero;i++)
+            {
+                factorial = factorial * i;
+            }
+
+            Console.WriteLine($"Su factorial es {factorial}");
+
+
+        }
+
+        static void Ejercicio18()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 18\n\n");
+
+            Console.WriteLine("Escriba 'c' si desea convertir una temperatura de Fahrenheit a Celcius\no 'f' para convertir de Celcius a Fahrenheit:");
+            string input = Console.ReadLine();
+            if (string.IsNullOrEmpty(input))
+            {
+                Console.WriteLine("La palabra ingresada no es valida.");
+                return;
+            }
+            if (input.ToLower() != "c" && input.ToLower() != "f") { Console.WriteLine("Opcion inexistente."); return; }
+
+            Console.WriteLine("Ingrese la temperatura:");
+            if (!float.TryParse(Console.ReadLine(), out float temperatura))
+            {
+                Console.WriteLine("El valor ingresada no es valido.");
+                return;
+            }
+
+            if (input.ToLower() == "c")
+            {
+                Console.WriteLine($"La temperatura en grados celcius es de {((temperatura-32)*5/9)}º.");
+            }
+
+            if (input.ToLower() == "f")
+            {
+                Console.WriteLine($"La temperatura en grados Fahrenheit es de {((temperatura/5*9)+32)}º.");
+            }
+        }
+
+        static void Ejercicio19()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 19\n\n");
+        }
+
+        static void Ejercicio20()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 20\n\n");
+        }
+
+        static void Ejercicio21()
+        {
+            Console.WriteLine("\n\n\t\tEjercicio 21\n\n");
         }
         #endregion
     }
