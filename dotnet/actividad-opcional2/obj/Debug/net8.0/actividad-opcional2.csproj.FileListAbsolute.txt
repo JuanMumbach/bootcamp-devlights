@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\bin\Debug\net8.0\actividad-opcional2.exe
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\bin\Debug\net8.0\actividad-opcional2.deps.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\bin\Debug\net8.0\actividad-opcional2.runtimeconfig.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\bin\Debug\net8.0\actividad-opcional2.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\bin\Debug\net8.0\actividad-opcional2.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.sourcelink.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\refint\actividad-opcional2.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\actividad-opcional2.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\actividad-opcional2\obj\Debug\net8.0\ref\actividad-opcional2.dll
