@@ -2,10 +2,14 @@
 #endregion
 
 #region Programa Principal
-//Ejercicio1();
-//Ejercicio2();
+/*
+Ejercicio1();
+Ejercicio2();
 Ejercicio3();
 Ejercicio5();
+Ejercicio7();
+*/
+Ejercicio8();
 #endregion
 
 #region Funciones / ejericicios
@@ -66,11 +70,6 @@ void Ejercicio3()
     Console.WriteLine($"El nombre más corto es '{nombres[nombreCortoIndex]}' y el nombre más largo es '{nombres[nombreLargoIndex]}'.");
 }
 
-void Ejercicio4()
-{
-
-}
-
 void Ejercicio5()
 {
     char[,] matriz = new char[5, 5];
@@ -83,6 +82,134 @@ void Ejercicio5()
             Console.Write($" {matriz[i, j]} ");
         }
         Console.Write("\n");
+    }
+}
+
+void Ejercicio7()
+{
+    int[,] tablaMultiplicar = new int[10, 10];
+
+    for (int i = 0; i < tablaMultiplicar.GetLength(0); i++)
+    {
+        for(int j = 0; j < tablaMultiplicar.GetLength(1); j++)
+        {
+            tablaMultiplicar[i, j] = (i+1) * (j+1);
+        }
+    }
+
+    for (int i = 0; i < tablaMultiplicar.GetLength(0); i++)
+    {
+        for (int j = 0; j < tablaMultiplicar.GetLength(1); j++)
+        {
+            Console.Write(tablaMultiplicar[i, j] + "\t");
+        }
+        Console.Write("\n");
+    }
+}
+
+void Ejercicio8()
+{
+    //crea matriz 10x10
+    bool[,] matrizX = new bool[10, 10];
+
+    //esconde las X
+    int cantidadX = 5;
+
+    Random random = new Random();
+    for (int i = 0; i < cantidadX;i++)
+    {
+        bool lugarLibre = false;
+
+        while(!lugarLibre)
+        {
+            int posX = random.Next(0, 9);
+            int posY = random.Next(0, 9);
+
+            if (!matrizX[posX, posY])
+            {
+                lugarLibre = true;
+                matrizX[posX, posY] = true;
+            }
+        }
+        
+    }
+    
+    //bucle del juego
+    int vidas = 3;
+    int intentos = cantidadX;
+
+    List<int> encontradaFila = new List<int>();
+    List<int> encontradaColumna = new List<int>();
+
+    while(intentos > 0 && vidas > 0)
+    {
+        Console.Clear();
+        Console.WriteLine($"Encuentra las {cantidadX} 'X' escondidas en la matriz:");
+        for(int i = 0; i < matrizX.GetLength(0);i++)
+        {
+            for (int j = 0; j < matrizX.GetLength(0); j++)
+            {
+                Console.Write("?\t");
+            }
+            Console.WriteLine();
+        }
+
+        Console.WriteLine($"Has encontrado {encontradaFila.Count} de {cantidadX}:");
+        for(int i = 0;i < encontradaFila.Count;i++)
+        {
+            Console.WriteLine($"En la fila {encontradaFila[i]} columna {encontradaColumna[i]}.");
+        }
+
+        Console.WriteLine("Encuentra la siguiente X");
+        Console.WriteLine("Ingrese una fila del 1 al 10:");
+
+        if (int.TryParse(Console.ReadLine(),out int nuevaFila) && nuevaFila > 0 && nuevaFila <= 10)
+        {
+            Console.WriteLine("Ingrese una columna del 1 al 10:");
+            if (int.TryParse(Console.ReadLine(), out int nuevaColumna) && nuevaColumna > 0 && nuevaColumna <= 10)
+            {
+                if (matrizX[nuevaFila,nuevaColumna])
+                {
+                    Console.WriteLine("Haz encontrado una X!");
+                    intentos--;
+                    Console.ReadLine();
+                }
+                else
+                {
+                    Console.WriteLine("No hay una X ahí...");
+                    Console.ReadLine();
+                    intentos--;
+                    vidas--;
+                    Console.ReadLine();
+                }
+            }
+            else
+            {
+                Console.WriteLine("La columna ingresada no es válida.");
+                Console.ReadLine();
+            }
+        }
+        else
+        {
+            Console.WriteLine("La fila ingresada no es válida.");
+            Console.ReadLine();
+        }
+
+    }
+
+    //mostrar matriz final
+
+    Console.WriteLine("Juego terminado.\n\n");
+    if (vidas > 0) Console.WriteLine("Haz encontrado todas las X!!!");
+    Console.WriteLine("Matriz final:");
+
+    for (int i = 0; i < matrizX.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrizX.GetLength(0); j++)
+        {
+            if (matrizX[i,j]) Console.Write("X\t"); else Console.Write("*\t");
+        }
+        Console.WriteLine();
     }
 }
 #endregion
