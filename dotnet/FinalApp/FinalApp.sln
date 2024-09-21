@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{E911D7C4-A6A2-4E38-91BE-8FED0DA1BDD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BL", "BL", "{FEEE6E4E-B2A4-429A-8C94-CFC26496AF52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PL", "PL", "{BEC5D139-17DF-4D05-B86F-04EF882CFAA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalApp_ECommerce_DataAccessLayer", "FinalApp_ECommerce_DataAccessLayer\FinalApp_ECommerce_DataAccessLayer.csproj", "{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalApp_Ecommerce_BusinessLayer", "FinalApp_Ecommerce_BusinessLayer\FinalApp_Ecommerce_BusinessLayer.csproj", "{04BD3C48-5DBE-413A-B895-1B89E6F52324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalApp_Ecommerce_WebAPI", "FinalApp_Ecommerce_WebAPI\FinalApp_Ecommerce_WebAPI.csproj", "{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BD3C48-5DBE-413A-B895-1B89E6F52324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BD3C48-5DBE-413A-B895-1B89E6F52324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BD3C48-5DBE-413A-B895-1B89E6F52324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BD3C48-5DBE-413A-B895-1B89E6F52324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C} = {E911D7C4-A6A2-4E38-91BE-8FED0DA1BDD5}
+		{04BD3C48-5DBE-413A-B895-1B89E6F52324} = {FEEE6E4E-B2A4-429A-8C94-CFC26496AF52}
+		{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4} = {BEC5D139-17DF-4D05-B86F-04EF882CFAA4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89411D68-7F97-479C-B1D6-A697D104F722}
+	EndGlobalSection
+EndGlobal

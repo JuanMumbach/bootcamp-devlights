@@ -1,0 +1,12 @@
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\bin\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.deps.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\bin\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\bin\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.sourcelink.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\refint\FinalApp_Ecommerce_BusinessLayer.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\FinalApp_Ecommerce_BusinessLayer.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_Ecommerce_BusinessLayer\obj\Debug\net8.0\ref\FinalApp_Ecommerce_BusinessLayer.dll

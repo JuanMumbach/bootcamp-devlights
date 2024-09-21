@@ -1,0 +1,13 @@
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\bin\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.deps.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\bin\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\bin\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.sourcelink.json
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\refint\FinalApp_ECommerce_DataAccessLayer.dll
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\FinalApp_ECommerce_DataAccessLayer.pdb
+C:\Users\juan_\OneDrive\Documentos\GitHub\juanmumbach\bootcamp-devlights\dotnet\FinalApp\FinalApp_ECommerce_DataAccessLayer\obj\Debug\net8.0\ref\FinalApp_ECommerce_DataAccessLayer.dll

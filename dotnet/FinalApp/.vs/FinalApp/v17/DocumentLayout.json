@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|c:\\users\\juan_\\onedrive\\documentos\\github\\juanmumbach\\bootcamp-devlights\\dotnet\\finalapp\\finalapp_ecommerce_webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|solutionrelative:finalapp_ecommerce_webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|c:\\users\\juan_\\onedrive\\documentos\\github\\juanmumbach\\bootcamp-devlights\\dotnet\\finalapp\\finalapp_ecommerce_webapi\\infrastructure\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|solutionrelative:finalapp_ecommerce_webapi\\infrastructure\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C}|FinalApp_ECommerce_DataAccessLayer\\FinalApp_ECommerce_DataAccessLayer.csproj|c:\\users\\juan_\\onedrive\\documentos\\github\\juanmumbach\\bootcamp-devlights\\dotnet\\finalapp\\finalapp_ecommerce_dataaccesslayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDD6F24-1982-49C3-8C31-56F5F51B2A6C}|FinalApp_ECommerce_DataAccessLayer\\FinalApp_ECommerce_DataAccessLayer.csproj|solutionrelative:finalapp_ecommerce_dataaccesslayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|c:\\users\\juan_\\onedrive\\documentos\\github\\juanmumbach\\bootcamp-devlights\\dotnet\\finalapp\\finalapp_ecommerce_webapi\\controllers\\buyorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|solutionrelative:finalapp_ecommerce_webapi\\controllers\\buyorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|c:\\users\\juan_\\onedrive\\documentos\\github\\juanmumbach\\bootcamp-devlights\\dotnet\\finalapp\\finalapp_ecommerce_webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3867FB3-D01D-4B1B-B791-F1DC5A1574D4}|FinalApp_Ecommerce_WebAPI\\FinalApp_Ecommerce_WebAPI.csproj|solutionrelative:finalapp_ecommerce_webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_ECommerce_DataAccessLayer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FinalApp_ECommerce_DataAccessLayer\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_ECommerce_DataAccessLayer\\Models\\Product.cs",
+              "RelativeToolTip": "FinalApp_ECommerce_DataAccessLayer\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:34:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Infrastructure\\Dto\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "FinalApp_Ecommerce_WebAPI\\Infrastructure\\Dto\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Infrastructure\\Dto\\AddProductDto.cs",
+              "RelativeToolTip": "FinalApp_Ecommerce_WebAPI\\Infrastructure\\Dto\\AddProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:32:56.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Controllers\\BuyOrdersController.cs",
+              "RelativeDocumentMoniker": "FinalApp_Ecommerce_WebAPI\\Controllers\\BuyOrdersController.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Controllers\\BuyOrdersController.cs",
+              "RelativeToolTip": "FinalApp_Ecommerce_WebAPI\\Controllers\\BuyOrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:26:33.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FinalApp_Ecommerce_WebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "FinalApp_Ecommerce_WebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:24:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FinalApp_Ecommerce_WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Documentos\\GitHub\\juanmumbach\\bootcamp-devlights\\dotnet\\FinalApp\\FinalApp_Ecommerce_WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FinalApp_Ecommerce_WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:22:44.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

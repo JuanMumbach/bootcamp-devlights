@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bfzuPzOSHUSYiKeFPr9043nUj8Mmo1tskfoH7V0rhUQ=",
+  "Source": "FinalApp_Ecommerce_WebAPI",
+  "BasePath": "_content/FinalApp_Ecommerce_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
