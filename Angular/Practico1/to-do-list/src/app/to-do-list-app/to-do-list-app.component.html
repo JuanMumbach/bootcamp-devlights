@@ -1,8 +1,14 @@
-<h1>To-Do List App</h1>
-<div *ngIf="ListIsEmpty"><p>The List is empty!</p></div>
-<div>
-  <div *ngFor="let task of list; let i = index">
-    <app-task [task]="task" (removeTask)="DeleteTask(i)"></app-task>
+<div class="container">
+  <h1>To-Do List App</h1>
+  <div *ngIf="ListIsEmpty"><p>The List is empty!</p></div>
+  <div>
+    <div *ngFor="let task of list; let i = index">
+      <app-task [task]="task" (removeTask)="DeleteTask(i)"></app-task>
+    </div>
+  </div>
+  
+  <div class="input-group">
+    <input type="text" [(ngModel)]="newTaskTitle" placeholder="New Task" />
+    <button (click)="AddElementToList()">Add</button>
   </div>
 </div>
-<button (click)="AddElementToList()">Add task</button>

@@ -1,0 +1,25 @@
+.input-group {
+    display: flex; /* Usa flexbox para alinear elementos */
+    margin-top: 20px; /* Espaciado superior */
+  }
+  
+  .input-group input {
+    flex: 1; /* Toma el espacio disponible */
+    padding: 10px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Borde */
+    border-radius: 5px; /* Esquinas redondeadas */
+    margin-right: 10px; /* Espaciado a la derecha */
+  }
+  
+  .input-group button {
+    padding: 10px 15px; /* Espaciado interno */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Esquinas redondeadas */
+    background-color: #28a745; /* Color verde */
+    color: white; /* Color del texto */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+  }
+  
+  .input-group button:hover {
+    background-color: #218838; /* Color más oscuro al pasar el mouse */
+  }
