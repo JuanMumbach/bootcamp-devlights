@@ -1,0 +1,7 @@
+<div>
+    <p>{{ task.title }}</p>
+    <button (click)="onToggleCompleted()">
+      {{ task.completed ? 'Completada' : 'Pendiente' }}
+    </button>
+    <button (click)="onRemoveTask()">Eliminar tarea</button>
+  </div>
