@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using FinalApp_ECommerce_DataAccessLayer.Data;
 using FinalApp_ECommerce_DataAccessLayer.Models;
+using FinalApp_Ecommerce_WebAPI.Infrastructure.Dto;
 
 namespace FinalApp_Ecommerce_WebAPI.Controllers
 {
@@ -76,12 +77,47 @@ namespace FinalApp_Ecommerce_WebAPI.Controllers
         // POST: api/BuyOrders
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<BuyOrder>> PostBuyOrder(BuyOrder buyOrder)
+        public async Task<ActionResult<BuyOrder>> CreateBuyOrder([FromBody] BuyOrderDto buyOrderDto)
         {
+           
+            BuyOrder buyOrder = new BuyOrder
+            {
+                UserId = buyOrderDto.UserId,
+                OrderDate = DateTime.Now,
+                OrderNumber = Guid.NewGuid().ToString(),
+                TotalAmount = buyOrderDto.BuyOrderItems.Sum(orderItem => orderItem.Price * orderItem.Quantity),
+                /*
+                OrderItems = buyOrderDto.BuyOrderItems.Select(x => new BuyOrderItem
+                {
+                    ProductId = x.ProductId,
+                    Quantity = x.Quantity,
+                    Price = x.Price,
+
+                }).ToList(),
+                */
+            };
+               
             _context.BuyOrders.Add(buyOrder);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetBuyOrder", new { id = buyOrder.Id }, buyOrder);
+            foreach (var dtoBuyOrderItem in buyOrderDto.BuyOrderItems)
+            {
+                BuyOrderItem buyOrderItem = new BuyOrderItem
+                {
+                    BuyOrderId = buyOrder.Id,
+                    ProductId = dtoBuyOrderItem.ProductId,
+                    Quantity = dtoBuyOrderItem.Quantity,
+                    Price = dtoBuyOrderItem.Price
+                };
+
+                _context.BuyOrderItems.Add(buyOrderItem);
+            }
+
+            await _context.SaveChangesAsync();
+
+            return Ok(buyOrder);
+            
+            
         }
 
         // DELETE: api/BuyOrders/5

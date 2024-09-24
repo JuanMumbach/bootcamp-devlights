@@ -79,19 +79,24 @@ namespace FinalApp_Ecommerce_WebAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<Product>> PostProduct(AddProductDto productDto)
         {
-            Product product = new Product
+            if (ModelState.IsValid)
             {
-                Name = productDto.Name,
-                Description = productDto.Description,
-                Price = productDto.Price,
-                CategoryId = productDto.CategoryId
-            };
+                Product product = new Product
+                {
+                    Name = productDto.Name,
+                    Description = productDto.Description,
+                    Price = productDto.Price,
+                    CategoryId = productDto.CategoryId
+                };
 
-            
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetProduct", new { id = product.Id }, product);
+                _context.Products.Add(product);
+                await _context.SaveChangesAsync();
+
+                return CreatedAtAction("GetProduct", new { id = product.Id }, product);
+            }
+
+            return BadRequest(ModelState);
         }
 
         // DELETE: api/Products/5
