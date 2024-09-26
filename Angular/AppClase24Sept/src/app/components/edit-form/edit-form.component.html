@@ -1,1 +1,21 @@
-<p>edit-form works!</p>
+<form [formGroup]="editUser" (ngSubmit)="onSubmit()">
+    <label for="name">Name: </label>
+    <input formControlName="name" type="text" id="name" formControlName="name"/>
+    <div *ngIf="editUser.controls['name']?.invalid && editUser.controls['name']?.touched">
+        <small>Name is required</small>
+    </div>
+
+    <label for="age">Age: </label>
+    <input formControlName="age" type="number" id="age" formControlName="age"/>
+    <div *ngIf="editUser.controls['age']?.invalid && editUser.controls['age']?.touched">
+        <small>Age must be between 18 and 99</small>
+    </div>
+
+    <label for="genre">Genre: </label>
+    <input formControlName="genre" type="text" id="genre" formControlName="genre"/>
+    <div *ngIf="editUser.controls['genre']?.invalid && editUser.controls['genre']?.touched">
+        <small>Genre is required</small>
+    </div>
+
+    <button type="submit" [disabled]="editUser.invalid">Submit</button> 
+</form>

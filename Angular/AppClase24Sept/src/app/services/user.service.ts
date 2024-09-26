@@ -8,10 +8,9 @@ import { Observable } from 'rxjs';
 export class UserService {
   private apiUrl = 'https://random-person-generator.com/api'; // URL de una API de ejemplo
 
-  constructor(private http: HttpClient) {}
+  constructor(private http : HttpClient) { }
 
-  // Método para obtener los usuarios desde la API
-  getUsers(): Observable<any> {
-    return this.http.get<any>(this.apiUrl);
-  }
+  getPerson():Observable<any>{    
+    return this.http.get(this.apiUrl);
+  }  
 }
