@@ -1,18 +1,18 @@
 <form [formGroup] = "createUser" (ngSubmit)="onSubmit()">
     <label for="name">Name: </label>
-    <input formControlName="name" type="text" id="name" name="name" formControlName="name"/>
+    <input type="text" id="name" name="name" formControlName="name"/>
     <div *ngIf="createUser.controls['name']?.invalid && createUser.controls['name']?.touched">
         <small>Name is required</small>
     </div>
 
     <label for="age">Age: </label>
-    <input formControlName="age" type="number" id="age" name="age" formControlName="age"/>
+    <input type="number" id="age" name="age" formControlName="age"/>
     <div *ngIf="createUser.controls['age']?.invalid && createUser.controls['age']?.touched">
         <small>Age is required</small>
     </div>
 
     <label for="genre">Genre: </label>
-    <input formControlName="genre" type="text" id="genre" name="genre" formControlName="genre"/>
+    <input type="text" id="genre" name="genre" formControlName="genre"/>
     <div *ngIf="createUser.controls['genre']?.invalid && createUser.controls['genre']?.touched">
         <small>Genre is required</small>
     </div>

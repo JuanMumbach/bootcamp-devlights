@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="grid">
+        <div class="col-md-3 col-sm-6" *ngFor="let person of persons">
+            <div class="our-team">
+                <img src={{person.picture.large}} alt="">
+                <ul class="social">
+                    <li><a href="#" class="fab fa-facebook"></a></li>
+                    <li><a href="#" class="fab fa-instagram"></a></li>
+                    <li><a href="#" class="fab fa-google-plus"></a></li>
+                    <li><a href="#" class="fab fa-linkedin"></a></li>
+                    <li><a href="#" class="fab fa-twitter"></a></li>
+                </ul>
+                <div class="team-content">
+                    <h3 class="title">{{person.name.first}} {{person.name.last}}</h3>
+                    <span class="post">{{person.location.country}}<br>
+                        {{person.gender}} {{person.dob.age}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
